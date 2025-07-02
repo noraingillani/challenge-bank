@@ -2,4 +2,5 @@ notebook>=6.0
 ipywidgets>=7.6
 ipython
 jupyterlab
-nbformat
+nbformat>=5.10.4
+nbconvert>=7.16.6
